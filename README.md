@@ -19,15 +19,6 @@ The MIMIT Malout Community Forum is a web-based platform designed to foster coll
 - **JavaScript**: Adds interactivity and dynamic content rendering.
 - **FontAwesome**: For scalable icons and social media links.
 
-## Setup Instructions
-1. Clone the repository or download the source code.
-   ```sh
-   git clone https://github.com/your-repo/mimit-community-forum.git
-   ```
-2. Navigate to the project folder and open `index.html` in a browser.
-3. Ensure that all assets (CSS, JavaScript, and images) are correctly linked in the `/assets` directory.
-4. For enhanced functionality, deploy the project using a web server like XAMPP or host it on platforms like GitHub Pages.
-
 ## Future Enhancements
 - Adding a user registration and authentication system.
 - Implementing a real-time discussion forum.
